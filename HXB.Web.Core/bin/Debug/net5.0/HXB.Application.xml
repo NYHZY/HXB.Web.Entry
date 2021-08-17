@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HXB.Application</name>
+    </assembly>
+    <members>
+        <member name="P:HXB.Application.Authorization.Model.UserInfo.id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="F:HXB.Application.Service.BaseCRUDService`2._repository">
+            <summary>
+            注入仓储
+            </summary>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.#ctor(Furion.DatabaseAccessor.IRepository{`1,`0})">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.Insert(`1)">
+            <summary>
+            新增
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.Update(`1)">
+            <summary>
+            更新
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.Delete(System.Int32)">
+            <summary>
+            删除
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.Find(System.Int32)">
+            <summary>
+            单条查询
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.InsertSync(`1)">
+            <summary>
+            新增-异步
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.UpdateSync(`1)">
+            <summary>
+            更新-异步
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HXB.Application.Service.BaseCRUDService`2.ClearSync(System.Int32)">
+            <summary>
+            清除-异步
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:HXB.Application.TestService.#ctor(Microsoft.Extensions.Logging.ILogger{HXB.Application.TestService})">
+            <summary>
+            Get方法
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

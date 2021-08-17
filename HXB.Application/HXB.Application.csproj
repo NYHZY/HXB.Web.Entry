@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>HXB.Application.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXB.Core\HXB.Core.csproj" />
+    <ProjectReference Include="..\HXB.EntityFramework.Core\HXB.EntityFramework.Core.csproj" />
+    <ProjectReference Include="..\HXB.Tool\HXB.Tool.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="applicationsetting.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

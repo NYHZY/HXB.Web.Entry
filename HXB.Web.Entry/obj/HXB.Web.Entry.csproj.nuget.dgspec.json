@@ -1,0 +1,491 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Entry\\HXB.Web.Entry.csproj": {}
+  },
+  "projects": {
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\HXB.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\HXB.Application.csproj",
+        "projectName": "HXB.Application",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\HXB.Application.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj"
+              },
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj"
+              },
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj",
+        "projectName": "HXB.Core",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Furion": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\HXB.Database.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\HXB.Database.Migrations.csproj",
+        "projectName": "HXB.Database.Migrations",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\HXB.Database.Migrations.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj",
+        "projectName": "HXB.EntityFramework.Core",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\HXB.EntityFramework.Core.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.EntityFramework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj"
+              },
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.21.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj",
+        "projectName": "HXB.Tool",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\HXB.Tool.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Tool\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Core\\HXB.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CSRedisCore": {
+              "target": "Package",
+              "version": "[3.6.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.62, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\HXB.Web.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\HXB.Web.Core.csproj",
+        "projectName": "HXB.Web.Core",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\HXB.Web.Core.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\HXB.Application.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Application\\HXB.Application.csproj"
+              },
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\HXB.Database.Migrations.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Database.Migrations\\HXB.Database.Migrations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Entry\\HXB.Web.Entry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Entry\\HXB.Web.Entry.csproj",
+        "projectName": "HXB.Web.Entry",
+        "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Entry\\HXB.Web.Entry.csproj",
+        "packagesPath": "C:\\Users\\黄小布\\.nuget\\packages\\",
+        "outputPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Entry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\黄小布\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\HXB.Web.Core.csproj": {
+                "projectPath": "E:\\PersonalProject\\HXB.Web.Entry\\HXB.Web.Core\\HXB.Web.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Furion": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

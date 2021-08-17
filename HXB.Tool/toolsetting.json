@@ -1,0 +1,16 @@
+{
+  "Redis": {
+    "Default": {
+      "Connection": "127.0.0.1:6379",
+      "InstanceName": "local",
+      "DefaultDB": 1,
+      "TimeOut": 6 //分钟
+    }
+  },
+  "LoginModel": {
+    "keyType": "login",
+    "TimeOut": 6
+  },
+  //是否开启授权
+  "isauthorization": "true"
+}

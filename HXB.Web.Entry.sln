@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.Web.Entry", "HXB.Web.Entry\HXB.Web.Entry.csproj", "{DAA46625-01EA-4000-91BB-0C7CCD7FA8FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.Web.Core", "HXB.Web.Core\HXB.Web.Core.csproj", "{7D3DB3C9-6F44-4B79-8EC7-3584ED3C186E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.EntityFramework.Core", "HXB.EntityFramework.Core\HXB.EntityFramework.Core.csproj", "{570B92A9-08BD-49E4-9C97-759C341BA7CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.Database.Migrations", "HXB.Database.Migrations\HXB.Database.Migrations.csproj", "{380DC183-ED06-4656-8353-902F6E94FEFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.Core", "HXB.Core\HXB.Core.csproj", "{D34E8ADF-9571-417C-AB7B-219FF9FC8965}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HXB.Application", "HXB.Application\HXB.Application.csproj", "{F9D48E24-0FDE-4CF6-8D04-19EB7CC54308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HXB.Tool", "HXB.Tool\HXB.Tool.csproj", "{EA476174-1203-42FB-8158-23B4F5C129A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA46625-01EA-4000-91BB-0C7CCD7FA8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA46625-01EA-4000-91BB-0C7CCD7FA8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA46625-01EA-4000-91BB-0C7CCD7FA8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA46625-01EA-4000-91BB-0C7CCD7FA8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3DB3C9-6F44-4B79-8EC7-3584ED3C186E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3DB3C9-6F44-4B79-8EC7-3584ED3C186E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3DB3C9-6F44-4B79-8EC7-3584ED3C186E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3DB3C9-6F44-4B79-8EC7-3584ED3C186E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570B92A9-08BD-49E4-9C97-759C341BA7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570B92A9-08BD-49E4-9C97-759C341BA7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570B92A9-08BD-49E4-9C97-759C341BA7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570B92A9-08BD-49E4-9C97-759C341BA7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380DC183-ED06-4656-8353-902F6E94FEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380DC183-ED06-4656-8353-902F6E94FEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380DC183-ED06-4656-8353-902F6E94FEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380DC183-ED06-4656-8353-902F6E94FEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E8ADF-9571-417C-AB7B-219FF9FC8965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E8ADF-9571-417C-AB7B-219FF9FC8965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E8ADF-9571-417C-AB7B-219FF9FC8965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E8ADF-9571-417C-AB7B-219FF9FC8965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D48E24-0FDE-4CF6-8D04-19EB7CC54308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D48E24-0FDE-4CF6-8D04-19EB7CC54308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D48E24-0FDE-4CF6-8D04-19EB7CC54308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D48E24-0FDE-4CF6-8D04-19EB7CC54308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA476174-1203-42FB-8158-23B4F5C129A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA476174-1203-42FB-8158-23B4F5C129A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA476174-1203-42FB-8158-23B4F5C129A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA476174-1203-42FB-8158-23B4F5C129A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75AB3BA4-3486-4E14-AA31-3C9BA054365E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="toolsetting.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="toolsetting.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CSRedisCore" Version="3.6.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.62" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HXB.Core\HXB.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mongo\" />
+    <Folder Include="Filter\" />
+    <Folder Include="Attribute\" />
+    <Folder Include="extend\" />
+  </ItemGroup>
+
+</Project>
