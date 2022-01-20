@@ -18,14 +18,16 @@ namespace HXB.Application
     public class TestService
     {
         private readonly ILogger<TestService> _logger;
+        private readonly ISqlRepository<MsSqlDbContextLocator> _reposit;
         /// <summary>
         /// Get方法
         /// </summary>
         /// <returns></returns>
-        public TestService(ILogger<TestService>  logger)
+        public TestService(ILogger<TestService>  logger, ISqlRepository<MsSqlDbContextLocator> reposit)
         {
             
             _logger = logger;
+            _reposit = reposit;
         }
 
         public string Get() {

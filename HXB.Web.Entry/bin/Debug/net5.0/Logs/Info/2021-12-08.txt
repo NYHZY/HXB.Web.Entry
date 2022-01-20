@@ -1,0 +1,2100 @@
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:18:57,438               
+【线程编号】[1]               
+【执行时间】[5040]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:18:57,447               
+【线程编号】[1]               
+【执行时间】[5049]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:18:57,450               
+【线程编号】[1]               
+【执行时间】[5052]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:18:57,453               
+【线程编号】[1]               
+【执行时间】[5056]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:18:57,456               
+【线程编号】[1]               
+【执行时间】[5058]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:41:43,355               
+【线程编号】[1]               
+【执行时间】[961]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:41:43,366               
+【线程编号】[1]               
+【执行时间】[972]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:41:43,369               
+【线程编号】[1]               
+【执行时间】[975]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:41:43,372               
+【线程编号】[1]               
+【执行时间】[978]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:41:43,375               
+【线程编号】[1]               
+【执行时间】[981]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:42:21,050               
+【线程编号】[1]               
+【执行时间】[712]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:42:21,061               
+【线程编号】[1]               
+【执行时间】[723]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:42:21,066               
+【线程编号】[1]               
+【执行时间】[729]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:42:21,069               
+【线程编号】[1]               
+【执行时间】[731]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:42:21,072               
+【线程编号】[1]               
+【执行时间】[734]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:52:21,978               
+【线程编号】[1]               
+【执行时间】[759]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:52:21,987               
+【线程编号】[1]               
+【执行时间】[769]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:52:21,991               
+【线程编号】[1]               
+【执行时间】[773]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:52:21,994               
+【线程编号】[1]               
+【执行时间】[776]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:52:22,002               
+【线程编号】[1]               
+【执行时间】[784]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:18,043               
+【线程编号】[1]               
+【执行时间】[1000]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:18,054               
+【线程编号】[1]               
+【执行时间】[1012]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:18,057               
+【线程编号】[1]               
+【执行时间】[1014]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:18,061               
+【线程编号】[1]               
+【执行时间】[1018]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:18,064               
+【线程编号】[1]               
+【执行时间】[1022]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:45,103               
+【线程编号】[1]               
+【执行时间】[806]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:45,121               
+【线程编号】[1]               
+【执行时间】[823]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:45,129               
+【线程编号】[1]               
+【执行时间】[831]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:45,134               
+【线程编号】[1]               
+【执行时间】[837]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:54:45,139               
+【线程编号】[1]               
+【执行时间】[842]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:55:59,665               
+【线程编号】[1]               
+【执行时间】[948]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:55:59,681               
+【线程编号】[1]               
+【执行时间】[965]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:55:59,684               
+【线程编号】[1]               
+【执行时间】[968]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:55:59,687               
+【线程编号】[1]               
+【执行时间】[971]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:55:59,691               
+【线程编号】[1]               
+【执行时间】[974]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:56:47,280               
+【线程编号】[1]               
+【执行时间】[709]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:56:47,297               
+【线程编号】[1]               
+【执行时间】[725]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:56:47,303               
+【线程编号】[1]               
+【执行时间】[732]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:56:47,305               
+【线程编号】[1]               
+【执行时间】[734]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 10:56:47,310               
+【线程编号】[1]               
+【执行时间】[739]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:00:28,846               
+【线程编号】[1]               
+【执行时间】[779]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:00:28,857               
+【线程编号】[1]               
+【执行时间】[791]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:00:28,868               
+【线程编号】[1]               
+【执行时间】[801]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:00:28,872               
+【线程编号】[1]               
+【执行时间】[805]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:00:28,879               
+【线程编号】[1]               
+【执行时间】[812]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:07:06,869               
+【线程编号】[1]               
+【执行时间】[799]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:07:06,884               
+【线程编号】[1]               
+【执行时间】[814]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:07:06,899               
+【线程编号】[1]               
+【执行时间】[829]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:07:06,902               
+【线程编号】[1]               
+【执行时间】[831]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:07:06,906               
+【线程编号】[1]               
+【执行时间】[835]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:26:01,220               
+【线程编号】[1]               
+【执行时间】[734]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:26:01,235               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:26:01,238               
+【线程编号】[1]               
+【执行时间】[751]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:26:01,242               
+【线程编号】[1]               
+【执行时间】[756]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:26:01,247               
+【线程编号】[1]               
+【执行时间】[760]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:29:39,617               
+【线程编号】[1]               
+【执行时间】[837]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:29:39,627               
+【线程编号】[1]               
+【执行时间】[847]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:29:39,632               
+【线程编号】[1]               
+【执行时间】[851]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:29:39,635               
+【线程编号】[1]               
+【执行时间】[855]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:29:39,638               
+【线程编号】[1]               
+【执行时间】[858]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:30:32,154               
+【线程编号】[1]               
+【执行时间】[731]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:30:32,163               
+【线程编号】[1]               
+【执行时间】[740]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:30:32,166               
+【线程编号】[1]               
+【执行时间】[743]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:30:32,175               
+【线程编号】[1]               
+【执行时间】[752]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:30:32,177               
+【线程编号】[1]               
+【执行时间】[755]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:32:20,426               
+【线程编号】[1]               
+【执行时间】[859]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:32:20,436               
+【线程编号】[1]               
+【执行时间】[869]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:32:20,450               
+【线程编号】[1]               
+【执行时间】[883]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:32:20,454               
+【线程编号】[1]               
+【执行时间】[887]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:32:20,457               
+【线程编号】[1]               
+【执行时间】[890]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:33:25,190               
+【线程编号】[1]               
+【执行时间】[847]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:33:25,200               
+【线程编号】[1]               
+【执行时间】[857]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:33:25,205               
+【线程编号】[1]               
+【执行时间】[862]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:33:25,209               
+【线程编号】[1]               
+【执行时间】[867]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:33:25,212               
+【线程编号】[1]               
+【执行时间】[869]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:34:49,959               
+【线程编号】[1]               
+【执行时间】[718]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:34:49,983               
+【线程编号】[1]               
+【执行时间】[742]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:34:49,986               
+【线程编号】[1]               
+【执行时间】[745]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:34:49,990               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:34:49,999               
+【线程编号】[1]               
+【执行时间】[758]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:36:42,282               
+【线程编号】[1]               
+【执行时间】[786]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:36:42,299               
+【线程编号】[1]               
+【执行时间】[803]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:36:42,312               
+【线程编号】[1]               
+【执行时间】[816]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:36:42,342               
+【线程编号】[1]               
+【执行时间】[846]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:36:42,346               
+【线程编号】[1]               
+【执行时间】[850]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:37:42,164               
+【线程编号】[1]               
+【执行时间】[714]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:37:42,172               
+【线程编号】[1]               
+【执行时间】[722]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:37:42,175               
+【线程编号】[1]               
+【执行时间】[725]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:37:42,184               
+【线程编号】[1]               
+【执行时间】[734]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:37:42,187               
+【线程编号】[1]               
+【执行时间】[737]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:38:56,190               
+【线程编号】[1]               
+【执行时间】[768]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:38:56,200               
+【线程编号】[1]               
+【执行时间】[779]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:38:56,204               
+【线程编号】[1]               
+【执行时间】[782]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:38:56,211               
+【线程编号】[1]               
+【执行时间】[790]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:38:56,214               
+【线程编号】[1]               
+【执行时间】[792]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:40:30,986               
+【线程编号】[1]               
+【执行时间】[756]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:40:31,000               
+【线程编号】[1]               
+【执行时间】[770]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:40:31,011               
+【线程编号】[1]               
+【执行时间】[782]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:40:31,014               
+【线程编号】[1]               
+【执行时间】[784]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:40:31,016               
+【线程编号】[1]               
+【执行时间】[787]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:46:57,050               
+【线程编号】[1]               
+【执行时间】[791]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:46:57,061               
+【线程编号】[1]               
+【执行时间】[802]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:46:57,069               
+【线程编号】[1]               
+【执行时间】[810]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:46:57,072               
+【线程编号】[1]               
+【执行时间】[813]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:46:57,076               
+【线程编号】[1]               
+【执行时间】[817]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:48:38,419               
+【线程编号】[1]               
+【执行时间】[716]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:48:38,453               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:48:38,470               
+【线程编号】[1]               
+【执行时间】[766]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:48:38,473               
+【线程编号】[1]               
+【执行时间】[769]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:48:38,476               
+【线程编号】[1]               
+【执行时间】[772]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:55:47,765               
+【线程编号】[1]               
+【执行时间】[790]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:55:47,777               
+【线程编号】[1]               
+【执行时间】[802]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:55:47,785               
+【线程编号】[1]               
+【执行时间】[810]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:55:47,792               
+【线程编号】[1]               
+【执行时间】[817]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 11:55:47,795               
+【线程编号】[1]               
+【执行时间】[820]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:01:12,685               
+【线程编号】[1]               
+【执行时间】[736]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:01:12,696               
+【线程编号】[1]               
+【执行时间】[748]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:01:12,703               
+【线程编号】[1]               
+【执行时间】[755]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:01:12,706               
+【线程编号】[1]               
+【执行时间】[757]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:01:12,709               
+【线程编号】[1]               
+【执行时间】[760]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:03:02,537               
+【线程编号】[1]               
+【执行时间】[706]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:03:02,553               
+【线程编号】[1]               
+【执行时间】[721]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:03:02,556               
+【线程编号】[1]               
+【执行时间】[724]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:03:02,562               
+【线程编号】[1]               
+【执行时间】[731]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 12:03:02,565               
+【线程编号】[1]               
+【执行时间】[734]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:17:33,874               
+【线程编号】[1]               
+【执行时间】[955]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:17:33,893               
+【线程编号】[1]               
+【执行时间】[973]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:17:33,896               
+【线程编号】[1]               
+【执行时间】[977]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:17:33,899               
+【线程编号】[1]               
+【执行时间】[980]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:17:33,903               
+【线程编号】[1]               
+【执行时间】[983]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:46:58,770               
+【线程编号】[1]               
+【执行时间】[754]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:46:58,781               
+【线程编号】[1]               
+【执行时间】[765]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:46:58,786               
+【线程编号】[1]               
+【执行时间】[770]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:46:58,788               
+【线程编号】[1]               
+【执行时间】[773]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:46:58,791               
+【线程编号】[1]               
+【执行时间】[775]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:48:36,795               
+【线程编号】[1]               
+【执行时间】[881]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:48:36,826               
+【线程编号】[1]               
+【执行时间】[912]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:48:36,859               
+【线程编号】[1]               
+【执行时间】[945]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:48:36,875               
+【线程编号】[1]               
+【执行时间】[961]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:48:36,882               
+【线程编号】[1]               
+【执行时间】[967]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:50:13,250               
+【线程编号】[1]               
+【执行时间】[727]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:50:13,259               
+【线程编号】[1]               
+【执行时间】[736]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:50:13,262               
+【线程编号】[1]               
+【执行时间】[739]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:50:13,264               
+【线程编号】[1]               
+【执行时间】[741]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:50:13,272               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:53:34,690               
+【线程编号】[1]               
+【执行时间】[703]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:53:34,700               
+【线程编号】[1]               
+【执行时间】[712]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:53:34,703               
+【线程编号】[1]               
+【执行时间】[715]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:53:34,710               
+【线程编号】[1]               
+【执行时间】[723]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:53:34,718               
+【线程编号】[1]               
+【执行时间】[730]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:54:48,323               
+【线程编号】[1]               
+【执行时间】[715]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:54:48,343               
+【线程编号】[1]               
+【执行时间】[735]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:54:48,357               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:54:48,365               
+【线程编号】[1]               
+【执行时间】[757]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:54:48,368               
+【线程编号】[1]               
+【执行时间】[760]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:57:08,234               
+【线程编号】[1]               
+【执行时间】[762]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:57:08,244               
+【线程编号】[1]               
+【执行时间】[771]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:57:08,247               
+【线程编号】[1]               
+【执行时间】[775]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:57:08,251               
+【线程编号】[1]               
+【执行时间】[778]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 14:57:08,254               
+【线程编号】[1]               
+【执行时间】[781]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:01:51,820               
+【线程编号】[1]               
+【执行时间】[761]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:01:51,839               
+【线程编号】[1]               
+【执行时间】[781]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:01:51,843               
+【线程编号】[1]               
+【执行时间】[785]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:01:51,846               
+【线程编号】[1]               
+【执行时间】[787]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:01:51,850               
+【线程编号】[1]               
+【执行时间】[792]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:03:47,089               
+【线程编号】[1]               
+【执行时间】[709]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:03:47,106               
+【线程编号】[1]               
+【执行时间】[727]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:03:47,110               
+【线程编号】[1]               
+【执行时间】[730]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:03:47,113               
+【线程编号】[1]               
+【执行时间】[733]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:03:47,115               
+【线程编号】[1]               
+【执行时间】[735]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:09:40,058               
+【线程编号】[1]               
+【执行时间】[715]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:09:40,067               
+【线程编号】[1]               
+【执行时间】[724]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:09:40,070               
+【线程编号】[1]               
+【执行时间】[727]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:09:40,073               
+【线程编号】[1]               
+【执行时间】[730]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:09:40,076               
+【线程编号】[1]               
+【执行时间】[733]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:11:56,086               
+【线程编号】[1]               
+【执行时间】[711]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:11:56,096               
+【线程编号】[1]               
+【执行时间】[721]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:11:56,099               
+【线程编号】[1]               
+【执行时间】[723]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:11:56,101               
+【线程编号】[1]               
+【执行时间】[726]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:11:56,104               
+【线程编号】[1]               
+【执行时间】[728]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:13:33,978               
+【线程编号】[1]               
+【执行时间】[792]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:13:33,987               
+【线程编号】[1]               
+【执行时间】[801]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:13:33,990               
+【线程编号】[1]               
+【执行时间】[804]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:13:33,993               
+【线程编号】[1]               
+【执行时间】[807]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:13:33,995               
+【线程编号】[1]               
+【执行时间】[809]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:16:22,795               
+【线程编号】[1]               
+【执行时间】[729]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:16:22,804               
+【线程编号】[1]               
+【执行时间】[738]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:16:22,807               
+【线程编号】[1]               
+【执行时间】[741]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:16:22,809               
+【线程编号】[1]               
+【执行时间】[744]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:16:22,812               
+【线程编号】[1]               
+【执行时间】[746]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:18:46,780               
+【线程编号】[1]               
+【执行时间】[743]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:18:46,800               
+【线程编号】[1]               
+【执行时间】[763]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:18:46,806               
+【线程编号】[1]               
+【执行时间】[769]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:18:46,809               
+【线程编号】[1]               
+【执行时间】[772]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:18:46,812               
+【线程编号】[1]               
+【执行时间】[775]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:20:30,478               
+【线程编号】[1]               
+【执行时间】[740]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:20:30,487               
+【线程编号】[1]               
+【执行时间】[750]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:20:30,493               
+【线程编号】[1]               
+【执行时间】[755]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:20:30,496               
+【线程编号】[1]               
+【执行时间】[758]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:20:30,498               
+【线程编号】[1]               
+【执行时间】[761]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:23:58,125               
+【线程编号】[1]               
+【执行时间】[741]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:23:58,134               
+【线程编号】[1]               
+【执行时间】[750]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:23:58,138               
+【线程编号】[1]               
+【执行时间】[754]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:23:58,141               
+【线程编号】[1]               
+【执行时间】[757]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:23:58,143               
+【线程编号】[1]               
+【执行时间】[759]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:24:55,730               
+【线程编号】[1]               
+【执行时间】[736]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:24:55,743               
+【线程编号】[1]               
+【执行时间】[749]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:24:55,748               
+【线程编号】[1]               
+【执行时间】[754]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:24:55,757               
+【线程编号】[1]               
+【执行时间】[762]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:24:55,759               
+【线程编号】[1]               
+【执行时间】[765]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:29:20,059               
+【线程编号】[1]               
+【执行时间】[774]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:29:20,072               
+【线程编号】[1]               
+【执行时间】[787]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:29:20,076               
+【线程编号】[1]               
+【执行时间】[791]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:29:20,080               
+【线程编号】[1]               
+【执行时间】[796]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:29:20,086               
+【线程编号】[1]               
+【执行时间】[802]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:30:05,253               
+【线程编号】[1]               
+【执行时间】[700]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:30:05,271               
+【线程编号】[1]               
+【执行时间】[717]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:30:05,277               
+【线程编号】[1]               
+【执行时间】[724]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:30:05,284               
+【线程编号】[1]               
+【执行时间】[731]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:30:05,292               
+【线程编号】[1]               
+【执行时间】[739]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:36:54,641               
+【线程编号】[1]               
+【执行时间】[979]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:36:54,653               
+【线程编号】[1]               
+【执行时间】[991]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:36:54,672               
+【线程编号】[1]               
+【执行时间】[1009]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:36:54,675               
+【线程编号】[1]               
+【执行时间】[1013]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:36:54,678               
+【线程编号】[1]               
+【执行时间】[1016]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:41:52,628               
+【线程编号】[1]               
+【执行时间】[816]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:41:52,638               
+【线程编号】[1]               
+【执行时间】[826]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:41:52,641               
+【线程编号】[1]               
+【执行时间】[829]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:41:52,644               
+【线程编号】[1]               
+【执行时间】[832]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:41:52,647               
+【线程编号】[1]               
+【执行时间】[835]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:42:40,782               
+【线程编号】[1]               
+【执行时间】[820]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:42:40,793               
+【线程编号】[1]               
+【执行时间】[831]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:42:40,802               
+【线程编号】[1]               
+【执行时间】[840]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:42:40,807               
+【线程编号】[1]               
+【执行时间】[846]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:42:40,815               
+【线程编号】[1]               
+【执行时间】[854]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:46:12,909               
+【线程编号】[1]               
+【执行时间】[742]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:46:12,919               
+【线程编号】[1]               
+【执行时间】[752]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:46:12,925               
+【线程编号】[1]               
+【执行时间】[758]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:46:12,928               
+【线程编号】[1]               
+【执行时间】[761]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:46:12,942               
+【线程编号】[1]               
+【执行时间】[775]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:47:11,237               
+【线程编号】[1]               
+【执行时间】[709]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:47:11,247               
+【线程编号】[1]               
+【执行时间】[719]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:47:11,250               
+【线程编号】[1]               
+【执行时间】[722]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:47:11,253               
+【线程编号】[1]               
+【执行时间】[725]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:47:11,264               
+【线程编号】[1]               
+【执行时间】[736]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:48:02,835               
+【线程编号】[1]               
+【执行时间】[761]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:48:02,846               
+【线程编号】[1]               
+【执行时间】[773]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:48:02,891               
+【线程编号】[1]               
+【执行时间】[817]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:48:02,897               
+【线程编号】[1]               
+【执行时间】[823]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:48:02,899               
+【线程编号】[1]               
+【执行时间】[826]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:53:36,479               
+【线程编号】[1]               
+【执行时间】[854]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:53:36,490               
+【线程编号】[1]               
+【执行时间】[865]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:53:36,494               
+【线程编号】[1]               
+【执行时间】[869]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:53:36,497               
+【线程编号】[1]               
+【执行时间】[872]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 15:53:36,500               
+【线程编号】[1]               
+【执行时间】[875]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:09:39,116               
+【线程编号】[1]               
+【执行时间】[1015]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:09:39,125               
+【线程编号】[1]               
+【执行时间】[1024]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:09:39,130               
+【线程编号】[1]               
+【执行时间】[1029]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:09:39,132               
+【线程编号】[1]               
+【执行时间】[1031]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:09:39,135               
+【线程编号】[1]               
+【执行时间】[1034]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:13:26,725               
+【线程编号】[1]               
+【执行时间】[781]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:13:26,735               
+【线程编号】[1]               
+【执行时间】[792]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:13:26,739               
+【线程编号】[1]               
+【执行时间】[795]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:13:26,742               
+【线程编号】[1]               
+【执行时间】[798]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:13:26,745               
+【线程编号】[1]               
+【执行时间】[801]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:14:07,491               
+【线程编号】[1]               
+【执行时间】[1728]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:14:07,512               
+【线程编号】[1]               
+【执行时间】[1749]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:14:07,524               
+【线程编号】[1]               
+【执行时间】[1761]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:14:07,527               
+【线程编号】[1]               
+【执行时间】[1765]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:14:07,532               
+【线程编号】[1]               
+【执行时间】[1769]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:16:24,207               
+【线程编号】[1]               
+【执行时间】[738]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:16:24,227               
+【线程编号】[1]               
+【执行时间】[759]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:16:24,240               
+【线程编号】[1]               
+【执行时间】[771]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:16:24,243               
+【线程编号】[1]               
+【执行时间】[774]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:16:24,251               
+【线程编号】[1]               
+【执行时间】[783]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:20:47,324               
+【线程编号】[1]               
+【执行时间】[794]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:20:47,352               
+【线程编号】[1]               
+【执行时间】[822]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:20:47,358               
+【线程编号】[1]               
+【执行时间】[828]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:20:47,362               
+【线程编号】[1]               
+【执行时间】[832]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:20:47,364               
+【线程编号】[1]               
+【执行时间】[835]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:26:55,950               
+【线程编号】[1]               
+【执行时间】[973]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:26:55,960               
+【线程编号】[1]               
+【执行时间】[983]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:26:55,968               
+【线程编号】[1]               
+【执行时间】[991]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:26:55,972               
+【线程编号】[1]               
+【执行时间】[996]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:26:55,979               
+【线程编号】[1]               
+【执行时间】[1003]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:28:38,746               
+【线程编号】[1]               
+【执行时间】[856]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:28:38,758               
+【线程编号】[1]               
+【执行时间】[867]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:28:38,762               
+【线程编号】[1]               
+【执行时间】[872]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:28:38,767               
+【线程编号】[1]               
+【执行时间】[876]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:28:38,774               
+【线程编号】[1]               
+【执行时间】[883]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:43:15,609               
+【线程编号】[1]               
+【执行时间】[842]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:43:15,618               
+【线程编号】[1]               
+【执行时间】[851]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:43:15,627               
+【线程编号】[1]               
+【执行时间】[860]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:43:15,635               
+【线程编号】[1]               
+【执行时间】[868]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:43:15,640               
+【线程编号】[1]               
+【执行时间】[873]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:49:39,075               
+【线程编号】[1]               
+【执行时间】[1072]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:49:39,086               
+【线程编号】[1]               
+【执行时间】[1082]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:49:39,093               
+【线程编号】[1]               
+【执行时间】[1090]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:49:39,099               
+【线程编号】[1]               
+【执行时间】[1096]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-12-08 16:49:39,107               
+【线程编号】[1]               
+【执行时间】[1104]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               

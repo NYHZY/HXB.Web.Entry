@@ -10,58 +10,58 @@ using System.Threading.Tasks;
 namespace HXB.Core.Sys_Table
 {
     [Table("sys_user")]
-    public class sys_user: BaseModel
+    public class Sys_User : BaseModel
     {
         /// <summary>
         /// 登录名
         /// </summary>
         [MaxLength(50)]
-        public string loginname { get; set; }
+        public string LoginName { get; set; }
         /// <summary>
         /// 密码
         /// </summary>
         [MaxLength(50)]
-        public string password { get; set; }
+        public string PassWord { get; set; }
         /// <summary>
         /// 真实姓名
         /// </summary>
         [MaxLength(50)]
-        public string realname { get; set; }
+        public string RealName { get; set; }
         /// <summary>
         /// 昵称
         /// </summary>
         [MaxLength(100)]
-        public string nickname { get; set; }
+        public string NickName { get; set; }
         /// <summary>
         /// 年龄
         /// </summary>
-        public int? age { get; set; }
+        public int? Age { get; set; }
         /// <summary>
         /// 姓名
         /// </summary>
-        public int? sex { get; set; }
+        public int? Sex { get; set; }
         /// <summary>
         /// 身份证号
         /// </summary>
         [MaxLength(18)]
-        public string idno { get; set; }
+        public string IdNo { get; set; }
         /// <summary>
         /// 名族
         /// </summary>
-        public int? nationality { get; set; }
+        public int? Nationality { get; set; }
         /// <summary>
         /// 联系电话
         /// </summary>
         [MaxLength(20)]
-        public string phone { get; set; }
+        public string Phone { get; set; }
         /// <summary>
         /// 出生日期
         /// </summary>
-        public DateTime? birthdate { get; set; }
+        public DateTime? BirthDate { get; set; }
         /// <summary>
         /// 住址
         /// </summary>
         [MaxLength(150)]
-        public string address { get; set; }
+        public string Address { get; set; }
     }
 }

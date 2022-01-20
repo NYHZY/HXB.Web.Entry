@@ -1,0 +1,70 @@
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 14:49:42,214               
+【线程编号】[1]               
+【执行时间】[1013]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 14:49:42,226               
+【线程编号】[1]               
+【执行时间】[1026]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 14:49:42,233               
+【线程编号】[1]               
+【执行时间】[1032]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 14:49:42,236               
+【线程编号】[1]               
+【执行时间】[1036]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 14:49:42,239               
+【线程编号】[1]               
+【执行时间】[1039]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 15:10:42,538               
+【线程编号】[1]               
+【执行时间】[725]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 15:10:42,555               
+【线程编号】[1]               
+【执行时间】[742]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 15:10:42,558               
+【线程编号】[1]               
+【执行时间】[744]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 15:10:42,561               
+【线程编号】[1]               
+【执行时间】[747]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-02 15:10:42,564               
+【线程编号】[1]               
+【执行时间】[751]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               

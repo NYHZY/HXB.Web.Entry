@@ -1,0 +1,126 @@
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:18:57,052               
+【线程编号】[1]               
+【执行时间】[1418]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:18:57,062               
+【线程编号】[1]               
+【执行时间】[1428]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:18:57,064               
+【线程编号】[1]               
+【执行时间】[1430]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:18:57,067               
+【线程编号】[1]               
+【执行时间】[1433]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:18:57,069               
+【线程编号】[1]               
+【执行时间】[1435]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:55:34,928               
+【线程编号】[1]               
+【执行时间】[848]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:55:34,943               
+【线程编号】[1]               
+【执行时间】[863]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:55:34,946               
+【线程编号】[1]               
+【执行时间】[866]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:59:59,986               
+【线程编号】[1]               
+【执行时间】[697]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 08:59:59,996               
+【线程编号】[1]               
+【执行时间】[708]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 09:00:00,001               
+【线程编号】[1]               
+【执行时间】[713]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 09:00:00,018               
+【线程编号】[1]               
+【执行时间】[729]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 09:00:00,034               
+【线程编号】[1]               
+【执行时间】[745]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 10:10:43,964               
+【线程编号】[1]               
+【执行时间】[712]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 10:10:43,984               
+【线程编号】[1]               
+【执行时间】[733]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 10:10:43,993               
+【线程编号】[1]               
+【执行时间】[742]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 10:10:44,021               
+【线程编号】[1]               
+【执行时间】[770]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-08-27 10:10:44,026               
+【线程编号】[1]               
+【执行时间】[775]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               

@@ -1,0 +1,35 @@
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-03 11:13:31,726               
+【线程编号】[1]               
+【执行时间】[2477]毫秒               
+【提示信息】Now listening on: https://localhost:5001               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-03 11:13:31,739               
+【线程编号】[1]               
+【执行时间】[2491]毫秒               
+【提示信息】Now listening on: http://localhost:5000               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-03 11:13:31,743               
+【线程编号】[1]               
+【执行时间】[2495]毫秒               
+【提示信息】Application started. Press Ctrl+C to shut down.               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-03 11:13:31,747               
+【线程编号】[1]               
+【执行时间】[2498]毫秒               
+【提示信息】Hosting environment: Development               
+
+＝＝＝＝＝＝＝＝＝＝               
+【日志级别】INFO                
+【记录时间】2021-09-03 11:13:31,776               
+【线程编号】[1]               
+【执行时间】[2528]毫秒               
+【提示信息】Content root path: E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry               

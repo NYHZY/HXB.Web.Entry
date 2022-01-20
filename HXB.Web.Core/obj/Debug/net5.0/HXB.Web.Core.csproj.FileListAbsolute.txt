@@ -14,7 +14,6 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.Gene
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.AssemblyInfoInputs.cache
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.AssemblyInfo.cs
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.csproj.CoreCompileInputs.cache
-E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.csproj.CopyComplete
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\ref\HXB.Web.Core.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.pdb
@@ -24,3 +23,11 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\HXB.Tool.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\HXB.Tool.pdb
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\toolsetting.json
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\dbsetting.json
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\obj\Debug\net5.0\HXB.Web.Core.csproj.CopyComplete
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\libzstd.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\snappy32.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\snappy64.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\libsnappy64.so
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\libzstd.so
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\libsnappy64.dylib
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Core\bin\Debug\net5.0\libzstd.dylib

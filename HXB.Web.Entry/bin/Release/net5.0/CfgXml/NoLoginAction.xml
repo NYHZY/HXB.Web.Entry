@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <action  value="HXB.Application.Authorization.Service.UserService.Login"/>
+</root>

@@ -1,0 +1,160 @@
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 14:55:57,914         
+【线程编号】[18]         
+【执行时间】[68096]毫秒         
+【错误描述】Unable to cast object of type 'Newtonsoft.Json.Linq.JValue' to type 'System.Decimal'.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 14:56:29,721         
+【线程编号】[17]         
+【执行时间】[99904]毫秒         
+【错误描述】Unable to cast object of type 'Newtonsoft.Json.Linq.JValue' to type 'System.Decimal'.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:06:48,526         
+【线程编号】[9]         
+【执行时间】[42535]毫秒         
+【错误描述】Failed to convert parameter value from a JValue to a Decimal.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:06:56,101         
+【线程编号】[6]         
+【执行时间】[50110]毫秒         
+【错误描述】Failed to convert parameter value from a JValue to a Decimal.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:09:13,312         
+【线程编号】[9]         
+【执行时间】[21858]毫秒         
+【错误描述】Failed to convert parameter value from a JValue to a Int32.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:24:51,424         
+【线程编号】[9]         
+【执行时间】[19068]毫秒         
+【错误描述】参数化查询 '(@id bigint,@parentid nvarchar(4000),@pagename nvarchar(5),@isch' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:38:55,663         
+【线程编号】[9]         
+【执行时间】[219061]毫秒         
+【错误描述】参数化查询 '(@id bigint,@parentid nvarchar(4000),@pagename nvarchar(5),@isch' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:44:53,666         
+【线程编号】[9]         
+【执行时间】[47967]毫秒         
+【错误描述】Object reference not set to an instance of an object.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 15:59:22,521         
+【线程编号】[9]         
+【执行时间】[10218]毫秒         
+【错误描述】参数化查询 '(@id decimal(1,0),@parentid decimal(29,0),@pagename nvarchar(5),' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:02:02,608         
+【线程编号】[6]         
+【执行时间】[15905]毫秒         
+【错误描述】参数化查询 '(@id decimal(1,0),@parentid decimal(29,0),@pagename nvarchar(5),' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:12:19,370         
+【线程编号】[4]         
+【执行时间】[39988]毫秒         
+【错误描述】参数化查询 '(@id int,@pagename nvarchar(4),@createdtime nvarchar(19),@parent' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:17:22,103         
+【线程编号】[6]         
+【执行时间】[34655]毫秒         
+【错误描述】参数化查询 '(@id int,@pagename nvarchar(4),@createdtime datetime,@parentid i' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:20:58,381         
+【线程编号】[14]         
+【执行时间】[35611]毫秒         
+【错误描述】参数化查询 '(@id int,@pagename nvarchar(4),@createdtime datetime,@parentid i' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:21:50,499         
+【线程编号】[7]         
+【执行时间】[14728]毫秒         
+【错误描述】参数化查询 '(@id int,@pagename nvarchar(4000),@createdtime datetime,@parenti' 需要参数 '@pagename'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:31:47,032         
+【线程编号】[9]         
+【执行时间】[15581]毫秒         
+【错误描述】Index was outside the bounds of the array.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:32:29,667         
+【线程编号】[9]         
+【执行时间】[19131]毫秒         
+【错误描述】参数化查询 '(@id decimal(1,0),@parentid decimal(29,0),@pagename nvarchar(4),' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:33:54,820         
+【线程编号】[8]         
+【执行时间】[10519]毫秒         
+【错误描述】参数化查询 '(@id decimal(1,0),@parentid decimal(29,0),@pagename nvarchar(4),' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:36:16,441         
+【线程编号】[4]         
+【执行时间】[30121]毫秒         
+【错误描述】参数化查询 '(@id decimal(1,0),@parentid decimal(29,0),@pagename nvarchar(4),' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:37:01,299         
+【线程编号】[12]         
+【执行时间】[12417]毫秒         
+【错误描述】参数化查询 '(@id int,@parentid int,@pagename nvarchar(4),@ischeckbox int,@ro' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-17 16:39:23,095         
+【线程编号】[4]         
+【执行时间】[7389]毫秒         
+【错误描述】参数化查询 '(@id int,@parentid int,@pagename nvarchar(4),@ischeckbox int,@ro' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】

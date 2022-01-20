@@ -7,29 +7,29 @@ using System.Threading.Tasks;
 
 namespace HXB.Core.Sys_Table
 {
-    public class sys_dictionary: BaseModel
+    public class Sys_Dictionary: BaseModel
     {
         /// <summary>
         /// 父ID 这里需要添加外键
         /// </summary>
-        public int parentid { get; set; }
-        public string dictname { get; set; }
+        public int ParentId { get; set; }
+        public string DictName { get; set; }
         /// <summary>
         /// 值
         /// </summary>
-        public int? dictvalue { get; set; }
+        public int? DictValue { get; set; }
         /// <summary>
         /// 扩展值
         /// </summary>
-        public int? dictvalue1 { get; set; }
+        public int? DictValue1 { get; set; }
         /// <summary>
         /// 扩展值
         /// </summary>
-        public int? dictvalue2 { get; set; }
+        public int? DictValue2 { get; set; }
         /// <summary>
         /// 扩展值
         /// </summary>
-        public int? dictvalue3 { get; set; }
-        public int? systemid { get; set; }
+        public int? DictValue3 { get; set; }
+        public int? SystemId { get; set; }
     }
 }

@@ -4,5 +4,11 @@
         <name>HXB.Web.Entry</name>
     </assembly>
     <members>
+        <member name="M:HXB.Web.Entry.DynamicRoute.DynamicRouteController.DriveMethod">
+            <summary>
+            路由转发
+            </summary>
+            <returns></returns>
+        </member>
     </members>
 </doc>

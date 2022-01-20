@@ -1,0 +1,9 @@
+{
+  //其中“xxx”表示需要配置的内容，确保填写准确无误
+  "ConnectionStrings": {
+    "MySqlConnectionString": "server=xxx.xxx.xxx.xxx;port=3306;database=gearadmin;user=xxx;password=xxx;sslMode=None",
+    "OracleConnectionString": "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=xxx.xxx.xxx.xxx)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=xxx)));User ID=xxx;Password=xxx;Pooling = True;Max Pool Size = 50;Min Pool Size = 1;Persist Security Info=False;",
+    "MsSqlConnectionString": "Server=127.0.0.1;Database=platformdb;User=sa;Password=778820;MultipleActiveResultSets=True;",
+    "PostgreSQLConnectionString": "PORT=xxxx;DATABASE=xxxx;HOST=xxx.xxx.xxx.xxx;PASSWORD=xxx;USER ID=xxx;"
+  }
+}

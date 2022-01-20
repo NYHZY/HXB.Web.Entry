@@ -9,8 +9,15 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.GeneratedMSB
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.AssemblyInfoInputs.cache
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.AssemblyInfo.cs
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.csproj.CoreCompileInputs.cache
-E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.csproj.CopyComplete
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\ref\HXB.Tool.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.pdb
 E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\toolsetting.json
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\libzstd.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\snappy32.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\snappy64.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\libsnappy64.so
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\libzstd.so
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\libsnappy64.dylib
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\bin\Debug\net5.0\libzstd.dylib
+E:\PersonalProject\HXB.Web.Entry\HXB.Tool\obj\Debug\net5.0\HXB.Tool.csproj.CopyComplete

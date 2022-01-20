@@ -3,6 +3,7 @@ using Furion.DynamicApiController;
 using Furion.UnifyResult;
 using HXB.Core.ApplicationModel.SysConfigure.SysMenu;
 using HXB.EntityFramework.Core.DbContextLocators;
+using HXB.Tool.Tool;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,33 +20,31 @@ namespace HXB.Application.SysConfigure.SysMenu
         {
             _reposit = reposit;
         }
-        public RESTfulResult<object> GetMenuList(int systemid)
+        public RESTfulres<object> GetMenuList(int systemid)
         {
-            var data = new RESTfulResult<object>();
+            var data = new RESTfulres<object>();
             try
             {
                 var model = _reposit.SqlQuery<sys_menu>(@"select t.*,(select count(1) from sys_menu a where a.parentid=t.id) leaf from sys_menu t where t.systemid=@systemid and t.parentid is null", new { systemid = systemid});
+                data= RESTfulres<object>.Success();
                 data.Data = model;
-                data.StatusCode = 200;
-                data.Succeeded = true;
             }
             catch (Exception ex)
             {
-                data.Errors = ex.Message;
+                data = RESTfulres<object>.Erro(ex.Message);
             }
             return data;
         }
-        public RESTfulResult<object> GetMenuList(int systemid,int? menuid) {
-            var data= new RESTfulResult<object>();
+        public RESTfulres<object> GetMenuList(int systemid,int? menuid) {
+            var data= new RESTfulres<object>();
             try
             {
                 var model = _reposit.SqlQuery<sys_menu>(@"select t.*,(select count(1) from sys_menu a where a.parentid=t.id) leaf from sys_menu t where t.systemid=@systemid and t.parentid=@menuid", new { systemid = systemid, menuid = menuid });
+                data = RESTfulres<object>.Success();
                 data.Data = model;
-                data.StatusCode = 200;
-                data.Succeeded = true;
             }
             catch(Exception ex) {
-                data.Errors = ex.Message;
+                data = RESTfulres<object>.Erro(ex.Message);
             }
             return data;
         }

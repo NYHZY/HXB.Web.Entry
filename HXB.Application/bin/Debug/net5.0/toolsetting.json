@@ -1,16 +1,19 @@
 {
   "Redis": {
     "Default": {
-      "Connection": "127.0.0.1:6379",
+      "Connection": "127.0.0.1:6379,ConnectTimeout=5000,AllowAdmin=true,password=778820",
       "InstanceName": "local",
       "DefaultDB": 1,
       "TimeOut": 6 //分钟
     }
   },
   "LoginModel": {
-    "keyType": "login",
+    "KeyType": "login",
     "TimeOut": 6
   },
   //是否开启授权
-  "isauthorization": "true"
+  "IsAuthorization": "true",
+  "SuperToken": "HXB778820",
+  //请求携带token值的字段名称
+  "Authorization": "Authorization"
 }

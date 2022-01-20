@@ -1,0 +1,168 @@
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 09:45:33,194         
+【线程编号】[21]         
+【执行时间】[564329]毫秒         
+【错误描述】Error converting value 111 to type 'HXB.Core.Entities.ChangeData'. Path '', line 1, position 3.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 10:21:43,250         
+【线程编号】[12]         
+【执行时间】[127697]毫秒         
+【错误描述】Parameter count mismatch.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 10:42:42,017         
+【线程编号】[5]         
+【执行时间】[51784]毫秒         
+【错误描述】The best overloaded method match for 'Newtonsoft.Json.JsonConvert.DeserializeObject<object>(string)' has some invalid arguments         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 14:53:46,634         
+【线程编号】[8]         
+【执行时间】[74333]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:08:13,185         
+【线程编号】[14]         
+【执行时间】[57303]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:14:25,510         
+【线程编号】[6]         
+【执行时间】[44441]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:15:39,095         
+【线程编号】[16]         
+【执行时间】[118026]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:19:16,692         
+【线程编号】[9]         
+【执行时间】[335623]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:20:13,651         
+【线程编号】[16]         
+【执行时间】[392582]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:24:49,729         
+【线程编号】[12]         
+【执行时间】[668661]毫秒         
+【错误描述】属性字段 [createdtime] 的值为 [] 不是一个有效的日期，请检查。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:28:08,316         
+【线程编号】[9]         
+【执行时间】[70054]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:34:50,314         
+【线程编号】[8]         
+【执行时间】[98191]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:37:49,760         
+【线程编号】[12]         
+【执行时间】[60833]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:41:36,993         
+【线程编号】[8]         
+【执行时间】[19775]毫秒         
+【错误描述】必须声明标量变量 "@id"。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:43:32,064         
+【线程编号】[14]         
+【执行时间】[12673]毫秒         
+【错误描述】列名 'columntext' 无效。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:51:13,730         
+【线程编号】[15]         
+【执行时间】[63401]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 15:55:40,344         
+【线程编号】[12]         
+【执行时间】[138834]毫秒         
+【错误描述】No mapping exists from object type Newtonsoft.Json.Linq.JValue to a known managed provider native type.         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 16:19:17,939         
+【线程编号】[4]         
+【执行时间】[23948]毫秒         
+【错误描述】参数化查询 '(@id nvarchar(7),@parentid nvarchar(4000),@pagename nvarchar(19)' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 16:20:24,859         
+【线程编号】[16]         
+【执行时间】[90869]毫秒         
+【错误描述】参数化查询 '(@id nvarchar(7),@parentid nvarchar(4000),@pagename nvarchar(19)' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 16:24:21,583         
+【线程编号】[19]         
+【执行时间】[327592]毫秒         
+【错误描述】参数化查询 '(@id nvarchar(7),@parentid nvarchar(4000),@pagename nvarchar(19)' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝         
+【日志级别】ERROR         
+【记录时间】2021-12-16 16:24:46,677         
+【线程编号】[20]         
+【执行时间】[352686]毫秒         
+【错误描述】参数化查询 '(@id nvarchar(7),@parentid nvarchar(4000),@pagename nvarchar(19)' 需要参数 '@parentid'，但未提供该参数。         
+【错误详情】

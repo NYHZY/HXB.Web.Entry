@@ -16,6 +16,6 @@ namespace HXB.EntityFramework.Core.DbContexts
         public MsSqlDbContext(DbContextOptions<MsSqlDbContext> options) : base(options)
         {
         }
-        public DbSet<sys_user> sys_user { get; set; }
+        public DbSet<Sys_User> sys_user { get; set; }
     }
 }

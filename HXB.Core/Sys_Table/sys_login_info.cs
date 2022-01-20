@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 namespace HXB.Core.Sys_Table
 {
     [Table("sys_login_info")]
-    public class sys_login_info:BaseModel
+    public class Sys_Login_Info : BaseModel
     {
         /// <summary>
         /// 登录时间
         /// </summary>
-        public DateTime login_date { get; set; }
-        public string login_ip { get; set; }
-        public DateTime logindate { get; set; }
+        public DateTime Login_Date { get; set; }
+        public string Login_Ip { get; set; }
+        public DateTime LoginDate { get; set; }
     }
 }

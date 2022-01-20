@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 namespace HXB.Core.Sys_Table
 {
     [Table("sys_redisconfig")]
-    public class sys_redisconfig
+    public class Sys_RedisConfig
     {
-        public int parentid { get; set; }
-        public string modelname { get; set; }
-        public int timeout { get; set; }
+        public int ParentId { get; set; }
+        public string ModelName { get; set; }
+        public int TimeOut { get; set; }
     }
 }

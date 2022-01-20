@@ -1,8 +1,10 @@
 ﻿using Furion;
+using HXB.Tool.Filter;
 using HXB.Tool.Middleware;
 using HXB.Tool.Redis;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -30,6 +32,12 @@ namespace HXB.Tool
             //int _defaultDB = int.Parse(App.Configuration["Redis:Default:DefaultDB"]?? "0");
             //services.AddSingleton(new RedisHelper(_connectionString, _instanceName, _defaultDB));
 
+            //请求授权验证
+            //services.AddMvc(option =>
+            //{
+            //    option.Filters.Add<AuthorizeFilter>();
+            //});
+
 
             //初始化 RedisHelper
             RedisHelper.Initialization(new CSRedis.CSRedisClient(App.Configuration["Redis:Default:Connection"]));
@@ -37,7 +45,10 @@ namespace HXB.Tool
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             //使用请求拦截中间件
-            app.UseHttpContextMiddleware();
+            //app.UseHttpContextMiddleware();
+            var httpContextAccessor = app.ApplicationServices.GetRequiredService<IHttpContextAccessor>();
+            //上下文对象 httpContextAccessor 
+            ToolHelper.HttpContextHelper.Configure(httpContextAccessor);
         }
     }
 }

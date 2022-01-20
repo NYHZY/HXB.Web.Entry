@@ -13,25 +13,25 @@ namespace HXB.Core.Sys_Table
     {
         public BaseModel()
         {
-            isvalid = 1;
+            Isvalid = 1;
         }
         
-        public int isvalid { get; set; }
+        public int Isvalid { get; set; }
         
         /// <summary>
         /// 创建人
         /// </summary>
         [Required]
-        public int createduserid { get; set; }
+        public int CreatedUserid { get; set; }
         /// <summary>
         /// 修改人
         /// </summary>
         [Required]
-        public int Updateduserid { get; set; }
+        public int UpdatedUserid { get; set; }
         /// <summary>
         /// 备注
         /// </summary>
         [MaxLength(200)]
-        public string remarks { get; set; }
+        public string Remarks { get; set; }
     }
 }
