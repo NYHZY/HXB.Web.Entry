@@ -125,7 +125,6 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\win\lib
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\obj\Debug\net5.0\HXB.Web.Entry.csproj.AssemblyReference.cache
-E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\obj\Debug\net5.0\staticwebassets\HXB.Web.Entry.StaticWebAssets.xml
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\StackExchange.Redis.dll
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\HXB.Tool.dll
@@ -164,3 +163,4 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\win\nat
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\PersonalProject\HXB.Web.Entry\HXB.Web.Entry\bin\Debug\net5.0\HXB.Web.Entry.StaticWebAssets.xml

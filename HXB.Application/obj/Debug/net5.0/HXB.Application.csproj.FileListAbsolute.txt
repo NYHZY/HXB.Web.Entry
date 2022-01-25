@@ -26,3 +26,4 @@ E:\PersonalProject\HXB.Web.Entry\HXB.Application\bin\Debug\net5.0\libsnappy64.so
 E:\PersonalProject\HXB.Web.Entry\HXB.Application\bin\Debug\net5.0\libzstd.so
 E:\PersonalProject\HXB.Web.Entry\HXB.Application\bin\Debug\net5.0\libsnappy64.dylib
 E:\PersonalProject\HXB.Web.Entry\HXB.Application\bin\Debug\net5.0\libzstd.dylib
+E:\PersonalProject\HXB.Web.Entry\HXB.Application\obj\Debug\net5.0\HXB.Application.csproj.CopyComplete
